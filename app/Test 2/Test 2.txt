@@ -1,0 +1,3 @@
+Test 2: 
+
+La señal tiene un periodo variable en el tiempo, mediante el osciloscopio se mide una frecuencia de ≈2kHz hasta ≈5kHz. El duty cycle de esta señal no se modifica, es de ≈50%. En este caso el led conectado a la salida se mantenía con un brillo constante, este no variaba. Tambien se adjuntan 3 imagenes con las que sucede lo mismo, no representan exactamente la funcion, pero puede dar una idea de ello.

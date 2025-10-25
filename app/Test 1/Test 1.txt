@@ -1,0 +1,3 @@
+Test 1:
+
+La señal tiene un (periodo) T = 1 ms, este no se modifica. En cambio el duty cycle varia en el tiempo, de ≈0% a ≈100%. Si se conecta un led a la salida se ve que la luz emitida aumenta y disminuye a medida que cambia el duty cycle. Se adjuntan 2 capturas del osciloscopio, no representan perfectamente lo que sucedia, pero se nota la forma de onda y su movimiento.
